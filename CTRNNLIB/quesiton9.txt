@@ -1,0 +1,298 @@
+1 - Oldest known map?
+2 - 1st world map?
+3 - 1st route map
+4 - Diameter of earth measured
+5 - Invention of parchment
+6 - Star chart
+7 - Invention of paper
+8 - Latitude/longitude
+9 - Diagram: planetary movements
+10 - Diagram: paired comparisons
+11 - Diagram: knowledge
+12 - Proto-bar graph
+13 - Catalan Atlas
+14 - Graphs of theoretical relation
+15 - Movable type
+16 - Rectangular coordinates
+17 - longitude via clock
+18 - triangulation
+19 - camera obscura
+20 - Trigonometric tables
+21 - Land survey
+22 - Computation of probabilities
+23 - Cylindrical projection
+24 - 1st modern atlas
+25 - Positions of stars and planets
+26 - Isosynchronous pendulum
+27 - Empirical data tables
+28 - 1st world map with isogons
+29 - Pantograph
+30 - Astronomical pictures
+31 - Logarithmic tables
+32 - Trigonometric triangulation
+33 - Gunter's scale
+34 - 1st adding machine
+35 - Sunspots
+36 - Least deviations
+37 - Coordinate system
+38 - 1st data graph
+39 - Image projection
+40 - Theory of probability
+41 - 1st econometric survey
+42 - 1st text on probability
+43 - Weather clock
+44 - Demographic statistics
+45 - 1st complete census
+46 - Life table
+47 - Mortality table
+48 - Bivariate plot
+49 - 1st weather map
+50 - International statistics
+51 - 1st mortality tables
+52 - rectangles for probabilities
+53 - 1st contour map?
+54 - Three-color printing
+55 - Statistical significance
+56 - Literal line graph
+57 - Abstract line graph
+58 - Photography
+59 - Photography
+60 - Normal distribution
+61 - Polar coordinates
+62 - Population statistics
+63 - Statistics
+64 - Empirical estimation
+65 - Notation for 3D space
+66 - Contour map
+67 - Annotated timeline
+68 - Diagrams of color systems
+69 - Empirical interpolation
+70 - Beta density graph
+71 - Measurement error
+72 - Historical timeline
+73 - Graphical analysis
+74 - Descriptive geometry
+75 - Geological map
+76 - 1st semi-graphic display
+77 - 1st thematic map?
+78 - First topographical map
+79 - Geometric proportional figures
+80 - Superimposed squares
+81 - Bar chart, line graph invented
+82 - Vibration pattern
+83 - Graph paper
+84 - Proto-nomogram
+85 - Automatic data recording
+86 - Lithography invented
+87 - 1st disease maps
+88 - Coordinate paper
+89 - Automatic time-series graph
+90 - Pie chart
+91 - Large-scale geological map
+92 - Least squares method
+93 - Subdivided bar graph
+94 - 1st graph of isotherms
+95 - Choropleth map
+96 - Natural phenomena
+97 - Ogive curve
+98 - Mechanical calculating device
+99 - Gompertz curve
+100 - Choropleth map
+101 - 1st photograph
+102 - Mortality curves
+103 - Polar-area charts
+104 - Comparative choropleth map
+105 - Natural phenomena
+106 - 1st dot map of population
+107 - Curve-fitting
+108 - Moral statistics
+109 - Graphical rank lists
+110 - Population density
+111 - Stereoscope
+112 - Industry and population
+113 - Mapping prostitutes in Paris
+114 - 1st flow map
+115 - Physical atlas
+116 - Logistic curve
+117 - Photographic process
+118 - Contour map of 3D table
+119 - Polar coordinates
+120 - Ethnographic maps
+121 - Tableau-graphique
+122 - Logarithmic grid
+123 - Normal curve
+124 - Map with diagrams
+125 - Graphics in law
+126 - 1st international conference
+127 - Dot map of disease
+128 - Standardization of graphs
+129 - Exhibition
+130 - Coxcombs
+131 - Modern weather map
+132 - Trichromatic process
+133 - Semilogarithmic grid
+134 - Diagrams in textbook
+135 - Stereogram
+136 - Flow map
+137 - Periodic table
+138 - Paris election map
+139 - US Congress supports Graphics
+140 - Graphics in census
+141 - Classification of graphics
+142 - Recording of motion
+143 - Trilinear coordinates
+144 - Semi-graphic table
+145 - Age pyramid
+146 - Statistical contour map
+147 - Two-variable color map
+148 - Semi-graphic scatterplot
+149 - Lexis diagram
+150 - Correlation
+151 - Proportional square
+152 - Star plot
+153 - Correlation
+154 - Description of graphic methods
+155 - "Graph''
+156 - Stereogram
+157 - Graph paper
+158 - Album de Statistique Graphique
+159 - Venn diagram
+160 - Motion
+161 - Statistical reasoning
+162 - Logarithmic paper
+163 - Multi-function nomograms
+164 - Pictogram
+165 - Punched card tabulation
+166 - Alignment diagrams
+167 - Two-dimensional world
+168 - Correlation
+169 - Review of graphics
+170 - Train schedule graphic
+171 - 1st anamorphic maps
+172 - Social mapping
+173 - Social data in museum
+174 - 1st movie
+175 - Area rectangles
+176 - Log-square paper
+177 - Graphical standards
+178 - Butterfly diagram: sunspots
+179 - Lorenz curve
+180 - Diagrams in textbook
+181 - Diagrams in textbook
+182 - Exhibition of graphs
+183 - Hertzsprung-Russell diagram
+184 - Arithmetic probability paper
+185 - Parade of graphics
+186 - Atomic number
+187 - Graphics college course
+188 - Standards for presentation
+189 - Pictogram
+190 - Committee on graphics
+191 - Statistical theory
+192 - Course on graphic methods
+193 - Gantt chart
+194 - Course in methods
+195 - Statistical chartbook
+196 - Path diagram
+197 - Textbooks on graphics
+198 - Television camera-tube
+199 - ISOTYPE method
+200 - Control chart
+201 - Test of graphics
+202 - Tests of graphics
+203 - Tests of graphics
+204 - Nomogram
+205 - Ideograph
+206 - Electroencephalograph
+207 - Timeline on log scale
+208 - Log-log paper
+209 - Std. statistical symbols
+210 - London Underground map
+211 - Lapse of interest
+212 - History of graphics
+213 - Memex
+214 - 1st digital computer
+215 - Factor rotation machine
+216 - Circular glyphs
+217 - Fortran
+218 - Phillips curve
+219 - Modern statistical graphics
+220 - Exploratory data analysis
+221 - Triangular glyphs
+222 - GIS
+223 - Theory of graphic symbols
+224 - Graphical rational patterns
+225 - Exploratory data analysis
+226 - Cathode ray tube
+227 - 1st interactive system
+228 - Star plot
+229 - Social indicator reporting
+230 - Biplot
+231 - Fourier series
+232 - Chernoff faces
+233 - Social indicator chartbook
+234 - Innovation
+235 - Bivariate matrix
+236 - Comparative graphics
+237 - PRIM-9
+238 - Chartbook
+239 - Circular display
+240 - Scatterplot
+241 - Chernoff faces
+242 - Graphics versus tables
+243 - scatterplot matrix
+244 - Chartbook
+245 - Cartesian rectangle
+246 - Committee on graphics
+247 - Linked brushing
+248 - S language
+249 - Geographic correlation diagram
+250 - Mosaic display
+251 - Fisheye view
+252 - Draftsman display
+253 - Brushing
+254 - Visibility base map
+255 - USA Today weather map
+256 - Sieve diagram
+257 - Graphical esthetics
+258 - Grand tour
+259 - Parallel coordinates plot
+260 - Interactive linked graphics
+261 - Interactive grand tours
+262 - Interactive time-series
+263 - Interactive maps
+264 - Nested dimensions
+265 - Lisp-Stat
+266 - Multivariate grand tours
+267 - Textured dot strips
+268 - Lexis pencil
+269 - Parallel coordinates plot theory
+270 - Enhanced mosaic display
+271 - Treemaps
+272 - Xgobi, ViSta
+273 - Categorical data graphics
+274 - Table lens
+275 - Cartographic data visualiser
+276 - Grammar of Graphics
+277 - Sparkline
+278 - Ethnographic maps used at Paris Peace Conference
+279 - Network diagram on a map
+280 - Smoothing time series
+281 - The first mechanical calculator
+282 - Muscle action
+283 - Gapminder
+284 - Bifocal display
+285 - Bayesian Distributions
+286 - Tag cloud, Word cloud
+287 - Chord diagram
+288 - Ordonnateur Statistique
+289 - Central Limit Theorem
+290 - Train schedule graphic
+291 - First discovery of partial residual plots
+292 - Bridge collapse 
+293 - First Programme
+294 - Oldest known palaeolithic map
+295 - The first weather map
+296 - Computational graphics language: ggplot2
+297 - American Negro Exhibit in Paris
+298 - Railroad commerce statistics

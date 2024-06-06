@@ -1,0 +1,54 @@
+# The function generator provides an instantiation of a noisy environment that can be sampled.
+# (N+1) is the number of microphones
+def function_generator(noise_multiplier=1, N=1, sample_delay=0.01, gen_samples=10, direction=1):
+    # Selected Parameters:
+    A = 1
+    % delta = 2 * np.pi * (np.random.random(size=N)-0.5)
+    omega = 1
+    gt_amplitude = A
+    
+    # Physical parameters
+    c_sound = 343
+    f_sound = 440
+    wavelen = c_sound / f_sound
+    spacing = wavelen / 2
+    max_delay = 1 / f_sound / 2
+    
+    # 5 possible directions
+    delay1    = max_delay * np.sin(-np.pi / 2)
+    delay2    = max_delay * np.sin(-np.pi / 4)
+    delay3    = max_delay * np.sin( np.pi * 0)
+    delay4    = max_delay * np.sin( np.pi / 4)
+    delay5    = max_delay * np.sin( np.pi / 2)
+    
+    if direction == 1
+    	delay_phase = delay1
+	if direction == 2
+		delay_phase = delay2
+	if direction == 3
+		delay_phase = delay3
+	if direction == 4
+		delay_phase = delay4
+	if direction == 5
+		delay_phase = delay5
+
+    # Function to be called by the ode solver. The function can be evaluated at any time, t, to mimic the behavior
+    # of a continuous system.
+    def return_function(t):
+        t_samples = np.array(np.arange((t-gen_samples*sample_delay), t, sample_delay))[:gen_samples]
+        x_base = gt_amplitude*np.sin(2*np.pi*f_sound*t_samples)
+        
+        phase_gt = delay_phase
+        x = x_base + noise_multiplier*(np.random.randn(gen_samples))
+        x_gt = phase_gt/omega
+
+        # Additive interactions between the N other signals:
+        for i in range(N):
+            x = x+gt_amplitude*np.sin((2*np.pi*f_sound*t_samples)-phase_gt)
+            # x = x+gt_amplitude*np.sin((2*np.pi*t_samples)/omega[i]-delta_gt)+noise_multiplier*(np.random.randn(gen_samples))
+
+        return (x, x_gt)
+
+    # Return the signal environment with the selected noise parameters:
+    return return_function
+    
